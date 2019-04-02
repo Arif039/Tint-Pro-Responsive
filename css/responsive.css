@@ -1,0 +1,781 @@
+/* @media(max-width: 1440px){
+    .email {
+        padding-left: 40px;
+    }
+    .navbar-brand img {
+        padding-left: 35px;
+    }
+
+    .navbar-nav li a {
+       padding: 7px; 
+    }   
+    .carousel-caption h1 {
+        font-size: 38px;
+        padding-top: 0;
+    }
+    .carousel-caption p {
+        
+        font-size: 14px;
+    }
+    .years-30 li {
+        max-width: 234px;
+       font-size: 16px;
+        
+    }
+    .years-30 {
+        margin-bottom: 117px !important;
+    }
+
+    .carousel-caption h1 {
+        
+        font-size: 38px;
+      }  
+       
+      .carousel-caption p {
+        padding: 12px;
+      }
+      .protection a img {
+        width: 80%;
+    }
+    .drapes li {
+        padding: 20px 22px;
+    }
+    .are {
+        
+        padding-top: 60px;
+        
+    }
+    .logo-10 {
+        text-align: center;
+        padding: 0 0 38px 0;
+    }
+    .content-8 {
+        padding-top: 20px;
+    }
+    .save {
+        
+        font-size: 13px;
+    }
+    .heading-3 {
+        
+        margin-top: 52px;
+        
+    }
+    .logo-11 {
+       
+        padding-bottom: 40px;
+    }
+    .line-space img {
+        width: 26px;
+        display: inline-block;
+        position: absolute;
+        margin-left: 49px;
+    }
+    .sincerely {
+        margin: -43px 124px 15px 139px;
+        color: #0092a0;
+        padding: 16px 86px;
+        margin-right: 10px;
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .line-space-one img {
+        display: block;
+        margin-left: auto;
+        width: 26px;
+        margin-right: 77px;
+        margin-top: -37px;
+    }
+    .partner img {
+        padding: 25px 0;
+        width: 98%;
+    }
+    .social-footer span a {
+       
+        width: 30px;
+        height: 31px;
+        line-height: 10px;
+        
+    }
+
+    .social-footer span a i {
+        font-size: 12px;
+        
+    }
+        
+    } */
+
+
+/* -------------------------------- */
+
+@media(max-width: 1199px){
+    .email {
+        padding-left: 40px;
+    }
+    .navbar-brand img {
+        padding-left: 35px;
+    }
+
+    .navbar-nav li a {
+       padding: 7px; 
+    }   
+    .carousel-caption h1 {
+        font-size: 38px;
+        padding-top: 0;
+    }
+    .carousel-caption p {
+        
+        font-size: 14px;
+    }
+    .years-30 li {
+        max-width: 234px;
+       font-size: 16px;
+        
+    }
+    .years-30 {
+        margin-bottom: 117px !important;
+    }
+
+    .carousel-caption h1 {
+        
+        font-size: 38px;
+      }  
+       
+      .carousel-caption p {
+        padding: 12px;
+      }
+      .protection a img {
+        width: 80%;
+    }
+    .drapes li {
+        padding: 20px 22px;
+    }
+    .are {
+        
+        padding-top: 60px;
+        
+    }
+    .logo-10 {
+        text-align: center;
+        padding: 0 0 38px 0;
+    }
+    .content-8 {
+        padding-top: 20px;
+    }
+    .save {
+        
+        font-size: 13px;
+    }
+    .heading-3 {
+        
+        margin-top: 52px;
+        
+    }
+    .logo-11 {
+       
+        padding-bottom: 40px;
+    }
+    .line-space img {
+        width: 26px;
+        display: inline-block;
+        position: absolute;
+        margin-left: 49px;
+    }
+    .sincerely {
+        margin: -43px 124px 15px 139px;
+        color: #0092a0;
+        padding: 16px 86px;
+        margin-right: 10px;
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .line-space-one img {
+        display: block;
+        margin-left: auto;
+        width: 26px;
+        margin-right: 77px;
+        margin-top: -37px;
+    }
+    .partner img {
+        padding: 25px 0;
+        width: 98%;
+    }
+    .social-footer span a {
+       
+        width: 30px;
+        height: 31px;
+        line-height: 10px;
+        
+    }
+
+    .social-footer span a i {
+        font-size: 12px;
+        
+    }
+        
+    }
+
+    /* ---------------------------- */
+@media(max-width: 991px){
+    
+
+    .email {
+        padding-left: 40px;
+    }
+    
+    .navbar-brand img {
+        padding-left: 35px;
+    }
+
+    .navbar-nav li a {
+       padding: 7px; 
+    }   
+    
+
+    .years-30 {
+        margin-bottom: 218px !important;
+    }
+    .years-30 li {
+        
+        margin-left: -56px;
+        font-size: 15px !important;
+    }
+    
+       
+    .carousel-caption p {
+        font-size: 12px;
+    }
+      .protection a img {
+        width: 65%;
+    }
+    .drapes li {
+        padding: 9px 2px;
+    }
+    .are {
+        
+        font-size: 17px;
+        padding-top: 23px;
+        
+    }
+    .save {
+        font-size: 10px;
+    }
+    .logo-10 {
+        text-align: center;
+        padding: 0 0 38px 0;
+    }
+    .content-8 {
+        padding-top: 20px;
+    }
+    .save {
+        
+        font-size: 13px;
+    }
+    .heading-3 {
+        
+        margin-top: 52px;
+        
+    }
+    .logo-11 {
+       
+        padding-bottom: 40px;
+    }
+    .line-space img {
+        width: 26px;
+        display: inline-block;
+        position: absolute;
+        margin-left: 49px;
+    }
+    .sincerely {
+        margin: -43px 124px 15px 139px;
+        color: #0092a0;
+        padding: 16px 86px;
+        margin-right: 10px;
+        margin-left: 10px;
+        font-size: 13px;
+    }
+    .line-space-one img {
+        display: block;
+        margin-left: auto;
+        width: 26px;
+        margin-right: 77px;
+        margin-top: -37px;
+    }
+    .partner img {
+        
+        width: 103%;
+    }
+    .social-footer span a {
+        width: 26px;
+        height: 26px;
+        line-height: 4px;
+    }
+    .social-footer span a i {
+        font-size: 9px;
+    }
+    .reviews li a {
+        font-size: 10px;
+        
+    }
+    .responsive-1 {
+        font-size: 14px;
+    }
+
+.number-one {
+    
+    font-size: 18px;
+}
+.number-two {
+    
+    font-size: 10px;
+}
+.social-footer span a {
+    
+    margin: 0;
+}
+.share {
+    padding: 0;
+}
+    
+}
+   
+/* --------------------------------------------------------/ */
+
+@media(max-width: 767px){
+    
+    .carousel-caption h1 {
+        font-size: 24px;
+    }
+    .carousel-caption span {
+        
+        height: 3px;
+         margin-left: 16px;
+     }  
+     .carousel-caption p {
+        font-size: 12px;
+    }
+    .btn-custom {
+        
+        padding: 3px 22px !important;
+        
+        
+        font-size: 10px !important;
+    }
+    a.btn-custom.btn {
+        font-size: 10px;
+    }
+    .years-30 li img {
+        width: 50%;
+    }
+    .years-30 {
+        margin-bottom: 218px !important;
+    }
+    .years-30 li {
+        
+        margin-left: -56px;
+        font-size: 15px !important;
+    }
+    .one {
+        
+        padding: 19px 13px;
+        font-size: 13px;
+    }
+    .two {
+       
+        font-size: 14px;
+    }
+    .protection a img {
+        width: 65%;
+    }
+    .drapes li {
+        padding: 9px 2px;
+    }
+    .are {
+        
+        font-size: 17px;
+        padding-top: 23px;
+        
+    }
+    .save {
+        font-size: 10px;
+    }
+    .custom-responsive {
+       min-height: 25px !important;
+    }
+    .custom-responsive {
+        margin-top: -49px;
+    } 
+    .interactive {
+        
+        margin: 15px 0 10px 0;
+        
+    }
+    .lipsey {
+        
+        font-size: 20px;
+    }
+    .partner h1 {
+        
+        font-size: 20px;
+    }
+    
+    .responsive-1 {
+        font-size: 14px;
+    }
+.login ul li a {
+    
+    padding: 8px 16px;
+}
+.number-one {
+    
+    font-size: 18px;
+}
+.number-two {
+    
+    font-size: 10px;
+}
+.social-footer span a {
+    
+    margin: 0;
+}
+.share {
+    padding: 0;
+}
+    
+}
+
+/* ------------------------------------------ */
+
+@media(max-width: 765px){
+
+    .years-30 {
+        
+        display: none !important;
+    }
+    .news-item .news p {
+        
+        font-size: 26px;
+        
+    }
+    .protection a img {
+        width: 48%;
+    }
+    .drapes {
+        
+        flex-wrap: unset !important;
+    }
+    .are {
+        font-size: 11px;
+        padding-top: 0px;
+    }
+    .content-5 {
+        padding: 0 10px;
+    }
+    .number ul li {
+        padding: 0 10px;
+    }
+    .col-md-4.social-footer {
+        float: left;
+        padding: 0 18px;
+    }
+    .social-footer span a {
+        margin: 0 4px;
+    }
+    .share {
+        padding: 0 29px;
+    }
+
+}
+
+
+
+
+
+/* ------------------------------------------ */
+                    
+@media(max-width: 575px){
+
+    .years-30 {
+        
+        display: none !important;
+    }
+    .news-item .news p {
+        
+        font-size: 26px;
+        
+    }
+    .protection a img {
+        width: 48%;
+    }
+    .drapes {
+        
+        flex-wrap: unset !important;
+    }
+    .are {
+        font-size: 11px;
+        padding-top: 0px;
+    }
+    .content-5 {
+        padding: 0 10px;
+    }
+    .number ul li {
+        padding: 0 10px;
+    }
+    .col-md-4.social-footer {
+        float: left;
+        padding: 0 18px;
+    }
+    .social-footer span a {
+        margin: 0 4px;
+    }
+    .share {
+        padding: 0 29px;
+    }
+
+}
+
+
+/* ---------------------------------- */
+
+@media(max-width: 570px){
+
+    .email a {
+       
+        font-size: 11px;
+        
+    }
+    .prestige h6 {
+        
+        font-size: 11px;
+        
+    }
+    .social {
+        padding-right: 125px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    .carousel-caption p {
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+    .news-item .news p {
+        font-size: 16px;
+    }
+    .news-item .news a img {
+        width: 50%;
+    }
+    .one {
+       
+        margin: 0;
+        
+    }
+    .two {
+        
+        margin: 0;
+       
+    }
+    .are {
+        font-size: 11px;
+        margin: 0;
+        padding-top: 0;
+    }
+    .logo-10 {
+        text-align: center;
+        padding: 0;
+    }
+    .content-8 {
+        padding-top: 20px;
+        display: none;
+    }
+    .line-space img {
+        
+        display: none;
+    }
+    .sincerely {
+        
+        padding: 0;
+        
+    }
+    .line-space-one img {
+        
+        display: none;
+    }
+    .share {
+        padding: 0px 27px;
+    }
+    .login ul {
+        flex-wrap: unset !important;
+    }
+    .login ul li a {
+        
+        font-size: 8px;
+    }
+
+
+}
+
+/* ---------------------------------- */
+/* @media(max-width: 480px){
+
+    .email a {
+       
+        font-size: 11px;
+        
+    }
+    .prestige h6 {
+        
+        font-size: 11px;
+        
+    }
+    .social {
+        padding-right: 125px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    .carousel-caption p {
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+    .news-item .news p {
+        font-size: 16px;
+    }
+    .news-item .news a img {
+        width: 50%;
+    }
+    .one {
+       
+        margin: 0;
+        
+    }
+    .two {
+        
+        margin: 0;
+       
+    }
+    .are {
+        font-size: 11px;
+        margin: 0;
+        padding-top: 0;
+    }
+    .logo-10 {
+        text-align: center;
+        padding: 0;
+    }
+    .content-8 {
+        padding-top: 20px;
+        display: none;
+    }
+    .line-space img {
+        
+        display: none;
+    }
+    .sincerely {
+        
+        padding: 0;
+        
+    }
+    .line-space-one img {
+        
+        display: none;
+    }
+    .share {
+        padding: 0px 27px;
+    }
+    .login ul {
+        flex-wrap: unset !important;
+    }
+    .login ul li a {
+        
+        font-size: 8px;
+    }
+
+
+} */
+
+/* ---------------------------------- */
+@media(max-width: 380px){
+
+    .email a {
+       
+        font-size: 11px;
+        
+    }
+    .prestige h6 {
+        
+        font-size: 11px;
+        
+    }
+    .social {
+        padding-right: 125px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    .carousel-caption p {
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+    .news-item .news p {
+        font-size: 16px;
+    }
+    .news-item .news a img {
+        width: 50%;
+    }
+    .one {
+       
+        margin: 0;
+        
+    }
+    .two {
+        
+        margin: 0;
+       
+    }
+    .are {
+        font-size: 11px;
+        margin: 0;
+        padding-top: 0;
+    }
+    .logo-10 {
+        text-align: center;
+        padding: 0;
+    }
+    .content-8 {
+        padding-top: 20px;
+        display: none;
+    }
+    .line-space img {
+        
+        display: none;
+    }
+    .sincerely {
+        
+        padding: 0;
+        
+    }
+    .line-space-one img {
+        
+        display: none;
+    }
+    .share {
+        padding: 0px 27px;
+    }
+    .login ul {
+        flex-wrap: unset !important;
+    }
+    .login ul li a {
+        
+        font-size: 8px;
+    }
+
+
+}
+/* ------------------------------------------- */
